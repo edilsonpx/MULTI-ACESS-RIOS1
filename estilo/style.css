@@ -1,0 +1,1397 @@
+*{
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+}
+
+/**Boot CSS**/
+
+html,body{
+  height: 100%;
+
+}
+
+input{
+    border: 2;
+}
+
+
+
+.center{
+    max-width: 1280px;
+    padding:0 2%;
+    margin:0 auto;
+}
+
+.w33{
+    width: 33.3%;
+    padding: 0 10px;
+}
+
+.w50{
+    padding:0 10px;
+    width: 25%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+.container-fotos1   {
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 22%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-fotos2{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+     .container-fotos3{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+   padding: 3%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+     .container-fotos4{
+
+
+ width:  100%;  /* largura E023 */
+    height: 80%;
+    
+    padding: 9%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+     .container-fotos5{
+
+
+ width:  100%;  /* largura   minipc */
+    height: 80%;
+    
+   padding: 10%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+     .container-fotos6{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 3%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+     .container-fotos7{
+
+
+ width:  100%;  /* largura  m3 */
+    height: 80%;
+    
+    padding: 0%  11%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+ .container-fotos8{
+
+
+ width:  100%;  /* largura  m16*/
+    height: 80%;
+    
+    padding: 4%  10%;       
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+     .container-fotos9{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 3%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+
+    .container-fotos10{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 3%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-fotos11{
+
+
+ width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 3%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-fotos12{
+
+
+ width:  100%;  /* largura  kts */
+    height: 80%;
+    
+    padding: 0%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+     .container-fotos13{
+
+
+ width:  100%;  /* largura  placa solar */
+    height: 80%;
+    
+    padding: 4%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-fotos14{
+
+
+ width:  100%;  /* largura  placa solar  G19 */
+    height: 80%;
+    
+    padding: 5%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-fotos15{
+
+
+ width:  100%;  /* largura  E66 H'MASTON */
+    height: 80%;
+    
+    padding: 5%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-fotos16{
+
+
+ width:  100%;  /* largura K4+*/
+    height: 80%;
+    
+    padding: 5%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-fotos17{
+
+
+ width:  100%;  /* largura 2006 */
+    height: 80%;
+    
+    padding: 10%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-fotos18{
+
+
+ width:  100%;  /* largura  2005 */
+    height: 80%;
+    
+    padding: 5%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-fotos19{
+
+
+ width:  100%;  /* largura  H3*/
+    height: 80%;
+    
+    padding: 5%  10%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+
+
+    /*************************CARRREGADOR ****************************************/
+
+
+.container-care1{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%  15%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+.container-core2{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 20%  2%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+   
+    }
+
+
+    .container-care3{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 3%  6%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+    .container-care4{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 6%  5%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+.container-care6{
+
+
+    width:  100%;  /* largura  MI */
+    height: 80%;
+    
+    padding: 0%  17%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care7{
+
+
+    width:  100%;  /* largura  VERDE*/
+    height: 80%;
+    
+    padding: 18%  1%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care8{
+
+
+    width:  100%;  /* largura XTRAD */
+    height: 80%;
+    
+    padding: 0%  21%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care9{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%  21%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care10{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%  21%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care11{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%  21%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+    .container-care12{
+
+
+    width:  100%;  /* largura*/
+    height: 80%;
+    
+    padding: 0%  21%;
+     border: 10px solid #000000;  /* cor da borta das fotos*/
+   cursor: pointer;  /*cursor pra foto*/
+    
+    }
+
+
+
+
+
+
+img:hover{
+    border: 10px solid #ff0000;  /* ao colocar cursor em cima da foto as bordas fica vermelha*/
+}
+
+
+
+
+
+
+
+    /****************************////////////////////************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.center{
+    max-width: 1280px;
+    padding:0 1%;
+    margin:0 auto;
+}
+
+.w33{
+    width: 33.3%;
+    padding: 0 10px;
+}
+
+.w50{
+    padding:0 10px;
+    width: %;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+
+/******************Estilização do site***************************************/
+
+header{
+border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/
+  position: fixed;   /* fixar menu heade no Topo*/
+   width: 100%;
+   height: 70px;
+   z-index: 2;  /* posiçao  em primeiro luga no topo*/
+    background: #000000
+   
+    }
+/*
+header .logo {
+
+    font-size: 25px;
+    font-weight: 300;
+    text-transform: uppercase;
+    }
+*/
+
+
+.logo a{
+  
+    text-decoration: none; /* tira o anderline  barra*/ 
+    color: white;
+    font-weight: 700;  /* tamanho negrito */
+    text-transform: uppercase;
+    font-size: 23px;
+    left: 20;
+    
+}
+
+nav.mobile{
+        display: none;
+
+    }
+
+
+/******************************DESKTOP****************************************/
+
+
+nav.desktop ul{
+
+    position: relative;
+    top:6px;
+    list-style-type: none;
+}
+
+nav.desktop li{
+    
+    font-weight: 700;  /* tamanho negrito */
+    font-size: 17px; /* tamanho da fonte */
+    padding:10px 10px;  /* aulta e largura */
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+nav.desktop a{
+    transition: 1s; /* efeitos vermelho */
+    color: white;
+    text-decoration: none;
+}
+
+nav.desktop a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+
+/****************************** FIM DESKTOP****************************************/
+
+
+
+
+
+
+
+/******************************BANNNER********************************************/
+
+
+
+
+
+section.banner-principal{
+   
+    width: 100%; /* mover imagem */
+    height: 800px; /* almenta espaço*/
+    background-image: url('../images/variedades.png');
+    background-size: cover;
+    background-position: center; 
+
+    
+}
+
+
+section.banner-container{
+
+    width: 100%; /* mover imagem */
+    height: 250px; /* almenta espaço*/
+    background-size: cover;
+    
+}
+
+
+
+.banner-single{
+     margin:800px 550px;  /*  800px  mover cima/baixo das imagens // 550px mover para s lados slider */
+    position: absolute;
+    left:0;
+    top: 0;
+    z-index: 1;   /* posiçao  segundo  luga no topo*/
+    width: 18%;  /* tamanho da imagem esticada dos lados esticar */
+    height:40%; /* tamanho da imagem  esticada cima e baixo */
+    opacity: 0;
+  background-size: cover; 
+   background-position: center; 
+}
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+}
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #000;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+
+
+}
+.search-box:hover > .search-txt{
+    width: 300px;
+    padding: 0 6px;
+    top: 50px;
+
+}
+.search-box:hover > .search-btn{
+   background: white;
+     }
+
+     
+.search-btn{
+    color: #e84118;
+    float: right;
+    width: 40px;
+    height: 30px;
+    border-radius: 50%;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    text-decoration: none;
+}
+
+
+.search-txt{
+ border: none;
+ background: none;
+ outline: none;
+ float: left;
+ padding: 0;
+ color: white;
+ font-size: 16px;
+ transition: 0.4s;   
+ line-height: 20px;
+ width: 0px;
+
+}
+
+
+/**************************FIM BANNNER*******************************************/
+
+
+
+
+/******************************SECTION****************************************/
+
+section.mochilas{ /* <section class="mochilas"> */
+
+    padding: 1px 0;  /* alturas das bolsas*/
+    background: #FFF 
+
+
+}
+
+
+section.mochilas h2.title{ /*<h2 class="title">MOCHILA</h2> */
+  
+    margin:100px 0px;  /* altura das imagens*/
+   font-size: 30px;
+    text-align: center;
+   /* font-weight: 400; */ /* fonte normal */
+    color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+
+.box-mochila{  /*<div class="w33 left box-mochila"> */
+  
+   /* margin:30px 0px;  /* altura das imagens */
+    padding: 0 100px;  /* largura das imagens */
+   /* text-align: center;*/
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+}
+
+.box-mochila h4{
+    font-weight: 1000;  /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636
+ 
+}
+
+.box-mochila h4{
+    width: fit-content;  /* alargura vai se adapta ao conteudo */
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+}
+
+.box-mochila p{
+    font-size: 15px;  /* fonte*/
+    margin-top: 2px; /* espaçamento */
+    color: #000000
+    font-weight: 1000; /* fonte com borda negrito */
+    
+}
+
+.box-mochila p{
+    font-weight: 1000; /* fonte com borda negrito */
+
+    }
+
+
+
+/***************************FIM MOCHILA******************************************/
+
+
+
+
+
+/************************SECTION CARREGADOR*******************************/
+
+
+
+section.carregadores{  /* <section class="especialidades"> */
+    padding: 40px 0;  /* alturas das bolsas*/
+    background: #FFF;
+}
+
+
+
+section.carregadores h2.title{ /*  <h2 class="title">CARREGADOR PARA CELULAR</h2> */
+
+    font-size: 30px;
+    text-align: center;
+   /* font-weight: 400; */  /* fonte normal */
+   color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+
+.box-carregador{
+    margin:30px 0px;  /* altura das imagens */
+    padding: 0 100px;  /* largura das imagens */
+    /*text-align: center;*/
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+    
+}
+
+
+.box-carregador h4{
+   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+}
+
+
+.box-carregador h4{
+    font-weight: 1000; /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636; 
+  }
+
+
+.box-carregador p{   /*fonte */
+   font-size: 15px;
+    margin-top: 2px; /* espaçamento */
+    color: #000000;
+    font-weight: 1000; /* fonte com borda negrito */
+    
+}
+
+
+/******************************FIM SECTION CARREGADOR****************************************/
+
+
+
+
+
+
+/***********************SECTION CAIXA*****************************************************/
+
+
+section.caixas{  /* <section class="especialidades"> */
+    padding: 40px 0;  /* alturas das bolsas*/
+    background: #FFF;
+}
+
+
+
+section.caixas h2.title{ /*  <h2 class="title">CARREGADOR PARA CELULAR</h2> */
+
+    font-size: 30px;
+    text-align: center;
+   /* font-weight: 400; */  /* fonte normal */
+   color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+
+.box-caixa{
+    margin:30px 0px;  /* altura das imagens */
+    padding: 0 100px;  /* largura das imagens */
+    /*text-align: center;*/
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+    
+}
+
+
+.box-caixa h4{
+   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+}
+
+
+.box-caixa h4{
+    font-weight: 1000; /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636; 
+  }
+
+
+.box-caixa p{   /*fonte */
+   font-size: 15px;
+    margin-top: 2px; /* espaçamento */
+    color: #000000;
+    font-weight: 1000; /* fonte com borda negrito */
+    
+}
+
+
+/***********************FIM SECTION CAIXA****************************************/
+
+
+
+
+
+/*********************************************************************************/
+
+footer{
+    border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/
+    background: #000000;
+    padding: 15px 0;
+}
+
+footer.fixed{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    font-weight:400;
+    font-size: 16px;
+}
+
+
+@media screen and (max-width: 768px){
+
+
+
+
+    img{
+        float: none !important;
+        display: block;
+        margin:0 auto;
+    }
+
+    .w50{
+        padding:20px;
+        width: 100%;
+    }
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+
+
+
+
+
+
+    .w33{
+        width: 50%;
+        padding: 0px;
+    }
+    
+
+}
+
+
+
+
+
+@media screen and (max-width: 700px){
+
+    
+
+/****************************HEADER*******************************/
+
+
+
+
+
+    header{
+    border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/
+    padding:30px 0;
+    background: #000000
+
+
+}
+
+header .logo {
+    font-size:25px;  /* tamanho da fone da logo */
+    font-weight: 1000;
+    text-transform: uppercase;
+  
+     }
+
+
+
+/**********************LOGO******************************************/
+
+.logo a{
+    text-decoration: none;
+    color: white;
+  text-align: center;  
+}
+
+
+/********************************FIM LOGO*******************************/
+
+
+
+
+/*****************************FIM-HEADER****************************/
+
+
+
+
+    nav.desktop{
+        display: none;
+    }
+
+
+
+/*********************BOTAO MOBILE ************************************/
+
+nav.mobile{
+        display: block;
+    }
+
+
+.botao-menu-mobile{
+    font-size: 24px;
+     cursor: pointer;
+        color: white;
+}
+
+nav.mobile  ul{
+
+        top: 60px;
+        z-index: 2;
+        position: absolute;
+        left: 0;
+        width: 100%;   /* tamanho  das bordas do menu */
+        display: none;
+        text-align: center;
+       
+       
+    }
+
+     nav.mobile li{
+
+        font-weight: 700; /* fonte */ 
+        width: 100%;
+        display: block;
+        background: black;
+        border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/ 
+
+        font-size: 17px;
+        padding:8px 0;  /* tamanho das bolas*/
+        border-radius: 100px ; /* formato redondo*/
+
+        /*  width: fit-content;  /* alargura vai se adapta ao conteudo*/ 
+      /*  padding: 0x 0px;  /* almenta borda*/
+
+
+    }
+
+     nav.mobile li a{
+       display: block;
+        color: #FFF;
+        text-decoration: none;
+}
+
+
+
+/*********************FIM BOTAO MOBILE************************************/
+
+
+
+
+
+
+
+
+/****************************BANNNER**********************************/
+
+
+
+
+
+
+section.banner-principal{
+   
+    width: 100% ; /* mover imagem */
+    height: 300px; /* almenta espaço*/
+    background-image: url('../images/variedades.png');
+    background-size: cover;
+    background-position: center; 
+
+    
+}
+
+
+
+section.banner-container{
+margin-top: 2px 0px;
+    width: 100%; /* mover imagem */
+    height: 200px; /* almenta espaço  slider*/
+    background-size: cover;
+
+}
+
+.banner-single{
+    margin:300px 150px;  /*  300px  mover cima/baixo das imagens // 150px mover para s lados slider */
+    position: absolute;
+    left:0;
+    top: 0;
+    z-index: 1;  /* posiçao  em segundo luga no topo*/
+    width: 35%;  /* tamanho da imagem esticada dos lados esticar */
+    height:25%; /* tamanho da imagem  esticada cima e baixo */
+    opacity: 0;
+ background-size: cover; 
+  background-position: center;
+
+
+}
+
+
+
+
+
+/**************************FIM BANNER**********************************/
+
+
+}
+.search-box{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #eee
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+
+
+}
+.search-box:hover > .search-txt{
+    width: 300px;
+    padding: 0 6px;
+    top: 50px;
+   /* height: 0px ;*/
+    
+
+}
+.search-box:hover > .search-btn{
+   background: white;
+
+  
+   
+    
+     }
+
+     
+.search-btn{
+    color: #e84118;
+    float: right;
+    width: 45px;
+    height:25px;
+    border-radius: 45%;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    text-decoration: none;
+}
+
+
+.search-txt{
+ border: none;
+ background: none;
+ outline: none;
+ float: left;
+ padding: 0;
+ color: white;
+ font-size: 16px;
+ transition: 0.4s;   
+ line-height: 20px;
+ width: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+/*****************************SECTION********************************/
+
+
+section.carregadores{  /* <section class="especialidades"> */
+    padding: 40px 0;  /* alturas das bolsas*/
+    background: #FFF;
+
+}
+
+
+section.carregadores h2.title{ /*  <h2 class="title">CARREGADOR PARA CELULAR</h2> */
+    font-size: 30px;
+    text-align: center;
+   /* font-weight: 400; */  /* fonte normal */
+    color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+.box-carregador{
+   
+    margin:30px 0px;  /* altura das imagens */
+    padding: 0 50px;  /* largura das imagens */
+    /*text-align: center;*/
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+    
+}
+
+.box-carregador h4{
+   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    font-weight: 1000; /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636; 
+  }
+
+.box-carregador p{   /*fonte */
+   font-size: 15px;
+    margin-top: 2px; /* espaçamento */
+    color: #000000;
+    font-weight: 1000; /* fonte com borda negrito */
+    
+}
+
+
+/******************************FIM SECTION********************************/
+
+
+
+
+
+
+
+
+
+
+/***********************SECTION MOCHILA*****************************************************/
+
+
+section.mochilas{ /* <section class="mochilas"> */
+
+    padding: 1px 0;  /* alturas das bolsas*/
+    background: #FFF  
+
+}
+
+section.mochilas h2.title{ /*<h2 class="title">MOCHILA</h2> */
+    /* margin:20px 0px;  /* altura das imagens*/
+     margin-top: 5px; /* espaçamento */
+ font-size: 30px;
+   text-align: center;
+   
+    color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 10px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+.box-mochila{  /*<div class="w33 left box-mochila"> */
+
+    margin:30px 0px;  /* altura das imagens */
+    padding: 0 50px;  /* largura das imagens */
+   /* text-align: center;*/
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+}
+
+
+.box-mochila h4{
+    width: fit-content;  /* alargura vai se adapta ao conteudo */
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    font-weight: 1000;  /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636
+}
+
+
+.box-mochila p{
+    font-size: 15px;  /* fonte*/
+    margin-top: 2px; /* espaçamento */
+    color: #000000
+    font-weight: 1000; /* fonte com borda  negrito*/
+}
+
+
+
+
+
+
+/***********************SECTION FIM MOCHILA*****************************************************/
+
+
+
+
+/***********************SECTION CAIXA*****************************************************/
+
+
+section.caixas{  /* <section class="especialidades"> */
+    padding: 40px 0;  /* alturas das bolsas*/
+    background: #FFF;
+}
+
+section.caixas h2.title{ /*  <h2 class="title">CARREGADOR PARA CELULAR</h2> */
+
+    font-size: 30px;
+    text-align: center;
+   /* font-weight: 400; */  /* fonte normal */
+   color: #FFF; /* cor da fonte*/
+   /* border: 2px solid black;  /* linha de borda  */
+    
+  /*   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+    background: #363636; 
+}
+
+
+.box-caixa {
+    margin:30px 0px;  /* altura das imagens */
+    padding: 0 50px;  /* largura das imagens */
+    display: flex;
+    flex-direction: column; /* deixa o texto em coluna*/
+
+    
+}
+
+
+.box-caixa h4{
+   width: fit-content;  /* alargura vai se adapta ao conteudo*/
+    padding: 15px 20px;  /* almenta borda*/
+    border-radius: 20px ; /* formato redondo*/
+     font-weight: 1000; /* fonte com borda */
+    font-size: 15px;   /* tamanho da fonte */
+    color: #FFF;
+    background: #363636; 
+}
+
+
+.box-caixa p{   /*fonte */
+   font-size: 15px;
+    margin-top: 2px; /* espaçamento */
+    color: #000000;
+    font-weight: 1000; /* fonte com borda negrito */
+    
+}
+
+
+
+
+
+/***********************FIM SECTION CAIXA****************************************/
+
+
+
+
+
+
+
+
+/*******************************FOOTER*************************************/
+
+
+
+
+footer{
+     border-bottom: 10px solid #0000CD; /* deixa botão em 3D  e com borda*/ 
+   background: #000000;
+    padding: 15px 0;*/
+
+
+}
+
+footer.fixed{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    font-weight:400;
+    font-size: 16px;
+
+
+
+
+/***************************FIM FOOTER*************************************/
+
+
+    }
+}
